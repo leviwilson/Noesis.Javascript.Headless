@@ -88,6 +88,7 @@
     <Compile Include="Reporters\IJavaScriptReporter.cs" />
     <Compile Include="Helpers\DirectorySearcher.cs" />
     <Compile Include="JavaScriptTestRunner.cs" />
+    <Compile Include="Reporters\ResultsReporter.cs" />
     <Compile Include="Reporters\StringReporter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
